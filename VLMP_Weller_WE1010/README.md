@@ -1,4 +1,4 @@
-# 4-Post Picobilical toolhead PCB mount for Sherpa Mini
+# Rigid mount for the Weller 1010
 ## BOM
 - 2x M3 10mm Hex socket head screws
 - 2x M3 8mm Hex socket head screws
